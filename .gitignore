@@ -1,0 +1,12 @@
+# Ignore general project and classpath files
+.classpath
+.project
+.settings
+.DS_Store
+# Ignore Logs
+logs/
+log/
+*.log
+@ Ignore build folders and bin folders
+bin/
+build/
