@@ -21,6 +21,7 @@ public class TutorialTwo {
 			System.out.printf("The value of i is %d\n", i);
 			// Changes made by macdev2
 			
+		// Completed lesson on For loops	
 		}
 		
 	
